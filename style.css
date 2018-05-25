@@ -1,0 +1,56 @@
+/* CSS Document */
+
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: purple;
+  background-color: #d8da3d }
+
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+h1 {
+    font-size : 150%;
+    font-weight: 200;
+    letter-spacing:5px ;
+    word-spacing: 5px;
+    line-height: 2.0;
+    font-family: 'Lato', sans-serif;
+    color: #2F4F4F;
+}
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: blue }
+a:visited {
+  color: purple }
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
+img{
+    position: relative;
+    top: 60px;
+    left: 30px;
+    border-color: #696969;
+    border-style: groove;
+    border-top: 2px grey;
+    border-bottom: 2px grey;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+	float:none;
+}
+
